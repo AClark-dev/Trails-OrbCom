@@ -1,0 +1,74 @@
+Name,Effect,Cast Cost,Earth,Water,Fire,Wind,Time,Space,Mirage
+Stone Hammer,Earth - Single - Attack - Drops a large boulder on enemies.,10,1,0,0,0,0,0,0
+Earth Lance,Earth - Single - Attack - A pointed blade shoots up from the ground.,20,5,0,0,0,0,0,0
+Petrify Breath,Earth - Single - Attack - Blows petrifying gas on an enemy. [Petrify 20%],30,3,0,0,0,0,0,0
+Stone Impact,Earth - Area (M) - Attack - Drops a massive boulder on enemies.,40,3,0,0,0,0,2,0
+Petrify Cloud,Earth - Area (M) - Attack - Blows petrifying gas on an area. [Petrify 20%],60,5,0,0,3,0,0,0
+Atlas Hammer,Earth - Area (M) - Attack - Drops a colossal mass of boulders onto enemies.,80,10,0,6,0,0,0,0
+Titanic Roar,Earth - Area (All) - Attack - Creates a powerful localized earthquake.,70,8,0,0,0,0,4,0
+Geo Catastrophe,Earth - Area (All) - Attack - Magma power converted into a massive localized earthquake.,160,14,0,0,0,0,12,0
+Aqua Bleed,Water - Single - Attack - Shoots a heavy stream of water at enemies.,10,0,1,0,0,0,0,0
+Blue Impact,Water - Single - Attack - Blasts an enemy with highly pressurized water.,20,0,5,0,0,0,0,0
+Blue Ascension,Water - Single - Attack - Blasts an enemy with an explosive fountain of water.,30,0,12,0,0,0,0,0
+Diamond Dust,Water - Area (S) - Attack (Set) - Produces intense cold. [Freeze 20%],60,0,10,0,2,0,1,0
+Cocytus,Water - Area (All) - Attack - Summons enormous pillars of ice. [Freeze 20%],150,0,25,0,12,0,5,0
+Fire Bolt,Fire - Single - Attack - Shoots a flaming ball of fire.,10,0,0,1,0,0,0,0
+Flare Arrow,Fire - Single - Attack - Showers an enemy with searing flames.,20,0,0,3,0,0,0,0
+Napalm Breath,Fire - Single - Attack - Crimson flames that erupt from below.,40,0,0,8,0,0,0,0
+Cyclone Napalm,Fire - Single - Attack - Scorches the enemy with whirling crimson flames.,70,0,0,12,0,0,0,0
+Fire Bolt EX,Fire - Area (M) - Attack - Sends a wave of flaming balls of fire.,20,0,0,3,1,0,1,0
+Spiral Flare,Fire - Area (M) - Attack - A chaotic flurry of scorching arrows.,30,0,0,5,2,0,2,0
+Volcanic Rave,Fire - Area (M) - Attack - Causes an explosion of focused energy.,50,3,0,8,0,0,5,0
+Meteo Fall,Fire - Area (L) - Attack - Crushes foes with a meteorite summoned from above.,80,3,0,8,5,0,5,0
+Arc Prominence,Fire - Area (All) - Attack - Incinerates all foes in an explosive mass of fire.,180,4,0,15,8,0,8,0
+Air Strike,Wind - Single - Attack - Tears and shreds an enemy with compressed air.,10,0,0,0,1,0,0,0
+Aerial,Wind - Area (M) - Attack (Set) - A powerful tornado with whirling bits of rubble.,20,0,0,0,3,0,1,0
+Aero Storm,Wind - Area (L) - Attack (Set) - Creates a massive vortex of slicing aero blades.,70,1,0,0,10,0,3,0
+Grand Stream,Wind - Area (All) - Attack - Tears foes apart with violent torrents of air.,140,3,0,0,20,0,5,0
+Lightning,Wind - Line - Attack (Set) - Sends out an electrical shock. [Seal 20%],20,0,0,0,8,0,2,0
+Plasma Wave,Wind - Line - Attack (Set) - Strikes with electrical bolts. [Seal 20%],50,0,0,0,12,0,5,0
+Ragna Blast,Wind - Line - Attack (Set) - Calls down lightning of judgment. [Seal 20%],80,0,0,0,15,0,8,0
+Shadow Spear,Time - Single - Attack - A blade that whittles away life. [K.O. 20%],40,0,0,0,0,7,0,0
+Death Scream,Time - Area (All) - Attack - Piercing cry that calls foes to the underworld. [K.O. 20%],120,0,0,0,0,15,10,10
+Hell Gate,Time - Area (S) - Attack - Stagnates enemies' vital activities. [Faint 20%],30,0,0,0,0,6,3,3
+White Gehenna,Time - Area (M) - Attack (Set) - Disrupts the time-space continuum. [Faint 20%],60,0,0,0,4,10,4,4
+Abyss Fall,Time - Area (L) - Attack - Summons forth a messenger from the underworld. [Faint 20%],90,0,0,0,6,18,6,6
+Soul Blur,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%],10,0,0,0,0,1,0,0
+Dark Matter,Space - Single - Attack - Crushes a foe's body with compressed space.,40,0,0,0,0,0,4,0
+Lost Mobius,Space - Area (M) - Attack (Set) - Crushes foes to paste with warped space.,100,3,0,3,5,0,12,0
+Silver Thorn,Mirage - Area (M) - Attack (Set)  -A shower of madness-inducing blades. [Confuse 90%],90,0,0,0,0,4,12,20
+Earth Guard,Earth - Single - Support - Forms a temporary earth shield. [Immunity],10,2,0,0,0,0,0,0
+Earth Wall,Earth - Area (S) - Support - Forms a temporary earth shield perimeter. [Immunity],75,8,0,0,0,0,4,0
+Gaia Shield,Earth - Area (All) - Support - Forms a temporary earth shield boundary. [Immunity],220,16,0,0,0,0,15,0
+Crest,Earth - Single - Support - Temporarily grants protection from the earth. [DEF+25%],15,2,1,0,0,0,1,1
+La Crest,Earth - Area (M) - Support - Grants earth protection to all allies in range. [DEF+25%],40,5,3,0,0,0,3,3
+Petrosphere,Earth - Area (S) - Debilitate - Binds foes' legs with the power of the earth. [MOV-4],40,6,0,0,0,4,4,0
+Tear,Water - Single - Recovery - Heals 1000HP for an ally.,10,0,1,0,0,0,0,0
+Teara,Water - Single - Recovery - Heals 3000HP for an ally.,20,0,4,0,0,0,0,0
+Tearal,Water - Single - Recovery - Heals 6500HP for an ally.,40,0,8,0,0,0,0,0
+Tear-All,Water - Single - Recovery - Heals all HP for an ally.,70,0,15,0,0,0,0,0
+La Tear,Water - Area (S) - Recovery - Heals 1000HP for allies in the area.,20,0,2,0,1,0,1,0
+La Teara,Water - Area (M) - Recovery - Heals 3000HP for allies in the area.,55,0,8,0,2,0,2,0
+La Tearal,Water - Area (L) - Recovery - Heals 6500HP for allies in the area.,200,0,16,0,8,0,4,0
+La Tear-All,Water - Area (All) - Recovery - Heals all HP for all allies.,300,0,22,0,12,0,6,0
+Thelas,Water - Single - Recovery - Revives and heals 800HP.,30,2,4,0,0,0,0,1
+Athelas,Water - Single - Recovery - Revives and heals all HP for an ally.,180,8,18,0,0,0,0,4
+Curia,Water - Single - Recovery - Cures all abnormal status except K.O.,10,0,2,0,0,0,0,1
+La Curia,Water - Area (L) - Recovery - Cures status of all allies in area except those K.O.ed.,30,0,8,0,0,0,2,4
+Forte,Fire - Single - Support - Temporarily boosts strength by fire. [STR+25%],15,0,0,2,1,0,1,1
+La Forte,Fire - Area (M) - Support - Grants power of fire to all allies in range. [STR+25%],40,0,0,5,3,0,3,3
+Sylphen Guard,Wind - Single - Support - Creates a temporary wind barrier. [AGL+50%],10,0,0,0,2,0,0,0
+Sylphen Wing,Wind - Single - Support - Temporarily borrows the power of wind. [MOV+1],10,0,0,0,1,0,0,0
+Sylpharion,Wind - Area (S) - Support - Temporarily uses wind power to increase movement. [MOV+2],40,0,0,0,5,0,0,0
+Clock Up,Time - Single - Support - Speeds up the flow of time. [SPD+25%],10,0,0,0,0,1,0,0
+Clock Up EX,Time - Single - Support - Greatly speeds up the flow of time. [SPD+50%],30,0,0,0,0,9,0,0
+Anti-Sept,Time - Single - Debilitate - Temporarily prevents the casting of arts. [Mute],20,0,0,0,0,3,0,0
+Anti-Sept All,Time - Area (M) - Debilitate (Set) - Temporarily prevents the casting of arts. [Mute],40,0,0,0,1,7,3,0
+Orbal Down,"Time - Area (All) - Debilitate - Temporarily seals all arts. [Mute, ADF-30%]",100,0,0,0,4,12,8,0
+Clock Down,Time - Area (M) - Debilitate - Slows the flow of time. [SPD-50%],50,0,0,0,0,8,4,0
+A-Crest,Space - Area (M) - Support - Raises in-range allies' arts resistance. [ADF+30%],50,1,1,1,1,0,6,0
+Saint,Mirage - Single - Support - Temporarily increases an ally's parameters. [STR&DEF+25%],40,1,1,1,1,0,1,3
+Zodiac,Mirage - Area (All) - Support - Temporarily increases all allies' parameters. [STR&DEF+25%],240,4,4,4,4,0,4,8
+Chaos Brand,Mirage - Single - Debilitate - Muddles an enemy's cognitive abilities. [Confuse],40,0,0,0,0,0,0,7
+Silent Cross,Mirage - Area (All) - Debilitate - Mist that terminates all ambition. Cancels arts & crafts.,50,2,0,0,2,0,2,6
+Phantom Pain,Mirage - Area (M) - Debilitate (Set) - Projects a mirage to weaken foes' will to fight. [STR-15%],50,3,0,3,0,0,3,5

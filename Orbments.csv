@@ -1,0 +1,251 @@
+Quartz Name,Quartz Effect,Art Name,Cast Cost,Art Effect
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Shield 1,ADF+30/ATS-1%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+EP 1,Max EP+3%,Fire Bolt EX,20,Fire - Area (M) - Attack - Sends a wave of flaming balls of fire.
+,,Air Strike,10,Wind - Single - Attack - Tears and shreds an enemy with compressed air.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Forte,15,Fire - Single - Support - Temporarily boosts strength by fire. [STR+25%]
+,,Sylphen Wing,10,Wind - Single - Support - Temporarily borrows the power of wind. [MOV+1]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+HP 1,Max HP+3%,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Shield 1,ADF+30/ATS-1%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Air Strike,10,Wind - Single - Attack - Tears and shreds an enemy with compressed air.
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,Sylphen Wing,10,Wind - Single - Support - Temporarily borrows the power of wind. [MOV+1]
+,,,,
+HP 1,Max HP+3%,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Action 1,SPD+10%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+HP 1,Max HP+3%,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Cast 1,Time to cast arts is cut.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+HP 1,Max HP+3%,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+EP 1,Max EP+3%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Mind 1,ATS+3%/ADF-1,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Shield 1,ADF+30/ATS-1%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Air Strike,10,Wind - Single - Attack - Tears and shreds an enemy with compressed air.
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,Sylphen Wing,10,Wind - Single - Support - Temporarily borrows the power of wind. [MOV+1]
+,,,,
+Mind 1,ATS+3%/ADF-1,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Action 1,SPD+10%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Mind 1,ATS+3%/ADF-1,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Cast 1,Time to cast arts is cut.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Mind 1,ATS+3%/ADF-1,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+EP 1,Max EP+3%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Shield 1,ADF+30/ATS-1%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Action 1,SPD+10%,Air Strike,10,Wind - Single - Attack - Tears and shreds an enemy with compressed air.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Sylphen Wing,10,Wind - Single - Support - Temporarily borrows the power of wind. [MOV+1]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Shield 1,ADF+30/ATS-1%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Cast 1,Time to cast arts is cut.,Air Strike,10,Wind - Single - Attack - Tears and shreds an enemy with compressed air.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Sylphen Wing,10,Wind - Single - Support - Temporarily borrows the power of wind. [MOV+1]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Defense 1,DEF+3%/STR-1%,Stone Hammer,10,Earth - Single - Attack - Drops a large boulder on enemies.
+HP 1,Max HP+3%,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+,,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,,,
+Defense 1,DEF+3%/STR-1%,Stone Hammer,10,Earth - Single - Attack - Drops a large boulder on enemies.
+Mind 1,ATS+3%/ADF-1,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+,,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,,,
+Defense 1,DEF+3%/STR-1%,Stone Hammer,10,Earth - Single - Attack - Drops a large boulder on enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Shield 1,ADF+30/ATS-1%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Air Strike,10,Wind - Single - Attack - Tears and shreds an enemy with compressed air.
+,,Sylphen Wing,10,Wind - Single - Support - Temporarily borrows the power of wind. [MOV+1]
+,,,,
+Defense 1,DEF+3%/STR-1%,Stone Hammer,10,Earth - Single - Attack - Drops a large boulder on enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Action 1,SPD+10%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Defense 1,DEF+3%/STR-1%,Stone Hammer,10,Earth - Single - Attack - Drops a large boulder on enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Cast 1,Time to cast arts is cut.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Defense 1,DEF+3%/STR-1%,Stone Hammer,10,Earth - Single - Attack - Drops a large boulder on enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+EP 1,Max EP+3%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Shield 1,ADF+30/ATS-1%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Move 1,MOV+1,Fire Bolt EX,20,Fire - Area (M) - Attack - Sends a wave of flaming balls of fire.
+,,Air Strike,10,Wind - Single - Attack - Tears and shreds an enemy with compressed air.
+,,Sylphen Wing,10,Wind - Single - Support - Temporarily borrows the power of wind. [MOV+1]
+,,,,
+HP 1,Max HP+3%,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Mind 1,ATS+3%/ADF-1,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Seal,Seal enemy crafts with 10% success.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,,,
+HP 1,Max HP+3%,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Attack 1,STR+3%/DEF-1%,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Seal,Seal enemy crafts with 10% success.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,,,
+HP 1,Max HP+3%,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Move 1,MOV+1,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,,,
+HP 1,Max HP+3%,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Hit 1,DEX+5/AGL-1,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,,,
+Mind 1,ATS+3%/ADF-1,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Attack 1,STR+3%/DEF-1%,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Seal,Seal enemy crafts with 10% success.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,,,
+Mind 1,ATS+3%/ADF-1,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Move 1,MOV+1,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,,,
+Mind 1,ATS+3%/ADF-1,Aqua Bleed,10,Water - Single - Attack - Shoots a heavy stream of water at enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Hit 1,DEX+5/AGL-1,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,Tear,10,Water - Single - Recovery - Heals 1000HP for an ally.
+,,,,
+Attack 1,STR+3%/DEF-1%,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Seal,Seal enemy crafts with 10% success.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Shield 1,ADF+30/ATS-1%,Air Strike,10,Wind - Single - Attack - Tears and shreds an enemy with compressed air.
+,,Sylphen Wing,10,Wind - Single - Support - Temporarily borrows the power of wind. [MOV+1]
+,,,,
+Attack 1,STR+3%/DEF-1%,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Seal,Seal enemy crafts with 10% success.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Action 1,SPD+10%,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Attack 1,STR+3%/DEF-1%,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Seal,Seal enemy crafts with 10% success.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Cast 1,Time to cast arts is cut.,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Attack 1,STR+3%/DEF-1%,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Seal,Seal enemy crafts with 10% success.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+EP 1,Max EP+3%,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Shield 1,ADF+30/ATS-1%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Hit 1,DEX+5/AGL-1,Air Strike,10,Wind - Single - Attack - Tears and shreds an enemy with compressed air.
+,,Sylphen Wing,10,Wind - Single - Support - Temporarily borrows the power of wind. [MOV+1]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Action 1,SPD+10%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Cast 1,Time to cast arts is cut.,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Action 1,SPD+10%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Move 1,MOV+1,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Action 1,SPD+10%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+EP 1,Max EP+3%,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Action 1,SPD+10%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Hit 1,DEX+5/AGL-1,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Cast 1,Time to cast arts is cut.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Move 1,MOV+1,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Cast 1,Time to cast arts is cut.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+EP 1,Max EP+3%,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Cast 1,Time to cast arts is cut.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Hit 1,DEX+5/AGL-1,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Move 1,MOV+1,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+EP 1,Max EP+3%,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+EP 1,Max EP+3%,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Hit 1,DEX+5/AGL-1,Soul Blur,10,Time - Single - Attack - Emits a time-space shaking pulse. [Faint 20%]
+,,Clock Up,10,Time - Single - Support - Speeds up the flow of time. [SPD+25%]
+,,,,
+Defense 1,DEF+3%/STR-1%,Stone Hammer,10,Earth - Single - Attack - Drops a large boulder on enemies.
+Attack 1,STR+3%/DEF-1%,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Seal,Seal enemy crafts with 10% success.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,,,
+Defense 1,DEF+3%/STR-1%,Stone Hammer,10,Earth - Single - Attack - Drops a large boulder on enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Move 1,MOV+1,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,,,
+Defense 1,DEF+3%/STR-1%,Stone Hammer,10,Earth - Single - Attack - Drops a large boulder on enemies.
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Hit 1,DEX+5/AGL-1,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+,,,,
+Attack 1,STR+3%/DEF-1%,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Seal,Seal enemy crafts with 10% success.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Move 1,MOV+1,,,
+,,,,
+Attack 1,STR+3%/DEF-1%,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Seal,Seal enemy crafts with 10% success.,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Hit 1,DEX+5/AGL-1,,,
+,,,,
+Seal,Seal enemy crafts with 10% success.,Fire Bolt,10,Fire - Single - Attack - Shoots a flaming ball of fire.
+Move 1,MOV+1,Flare Arrow,20,Fire - Single - Attack - Showers an enemy with searing flames.
+Hit 1,DEX+5/AGL-1,,,
+,,,,

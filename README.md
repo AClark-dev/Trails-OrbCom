@@ -1,5 +1,5 @@
 # Trails-OrbCom
-> Generate and search combinations of orbments for the Trails in the Sky series
+> Generate and search combinations of orbments for Trails in the sky SC
 
 Good quartz combinations are the backbone of combat in the Trails in the Sky games. But the in-game UI is cluttered and hard to use, making it hard to see which combinations of quartz will give the best combination of arts. This script generates a comprehensive list of all possible combinations of quartz and resulting arts.
 

@@ -3,9 +3,18 @@ import itertools as it
 
 # Parameters
 l = 3 #Line Length
-mustInclude = ['Seal']
-mustExclude = ["Heaven's Eye", 'EP Cut 1', 'Evade 1']
+mustInclude = ['Seal'] #Quartz which must be included
+mustExclude = ["Heaven's Eye", 'EP Cut 1', 'Evade 1'] #Quartz which must be excluded
 
+# What about orbment tiers?
+# What about orbment elemental slots?
+# What about required arts?
+
+#
+# Input data
+#
+
+# Open and input the quartz
 with open('Quartz.csv') as fQuartz:
     csv_reader = csv.DictReader(fQuartz)
     
@@ -26,6 +35,7 @@ with open('Quartz.csv') as fQuartz:
                 }
             quartz.append(newrow)
 
+# Open and input the arts
 with open('Arts.csv') as fArts:
     csv_reader = csv.DictReader(fArts)
     
@@ -46,12 +56,18 @@ with open('Arts.csv') as fArts:
             }
         arts.append(newrow)
 
-# Data Processing
+#
+# Process data
+#
+
+# Find combinations of 'l' (line length) many quartz without repeats
 cbnTuple = list(it.combinations(quartz,l))
 
+# Initialise list and keys
 sumDict = []
 keys = ['Earth','Water','Fire','Wind','Time','Space','Mirage']
 
+# Find dict of element values for each quartz combination and add to the list 'sumDict'
 for i in range(len(cbnTuple)):
     val = [0]*7
     for j in range(l):
@@ -65,14 +81,24 @@ for i in range(len(cbnTuple)):
         val[6] += qtz['Mirage']
     sumDict.append(dict(zip(keys, val)))
 
+# Initialise list
 lstDict = []
+
+# Loop over all the dicts in 'sumDict'
+# i.e. the elemental values corresponding to each quartz combination
 for i in range(len(sumDict)):
     lst = []
+    # Loop over all the arts
     for j in range(len(arts)):
         sum = 0
+        # Loop over all the keys
+        # i.e. the 7 different elements
         for k in keys:
+            # For this element of this quartz combination,
+            # check if it is above the number of this element required for this art
             if sumDict[i][k] >= arts[j][k]:
                 sum += 1
+        # If all of the elements are above the threshold for this art, add it as a dict to the list 'lst' 
         if sum == 7:
             newdict = {
                     'Name': arts[j]['Name'],
@@ -81,27 +107,8 @@ for i in range(len(sumDict)):
                 }
             lst.append(newdict)
     lstDict.append(lst)
-    
-# Format the output
-#for i in range(len(cbnTuple)):
-#    print('Quartz:')
-#    for j in range(l):
-#        print(cbnTuple[i][j]['Name'] + ': ' + cbnTuple[i][j]['Effect'])
-#    print('Arts:')
-#    for k in range(len(lstDict[i])):
-#            print(lstDict[i][k]['Name'] + ' (' + lstDict[i][k]['Cast Cost'] + ' EP): ' + lstDict[i][k]['Effect'])
-#    print('')
-#    print('')
-    
-maxval = 0
-for i in range(len(cbnTuple)):
-    if len(lstDict[i]) > maxval:
-        maxval = len(lstDict[i])
-#newLstDict = []
-#for i in range(len(lstDict)):
-#    if len(lstDict[i]) >= maxval-2:
-#        newLstDict.append(lstDict[i])
 
+# Check that specified quartz have been included/excluded
 idxQuartz = []
 idxArts = []
 for i in range(len(cbnTuple)):
@@ -115,36 +122,18 @@ for i in range(len(cbnTuple)):
     if countInclude == len(mustInclude) and countExclude == 0:
         idxQuartz.append(cbnTuple[i])
         idxArts.append(lstDict[i])
-        
+
+# Sort the data
+# By number of arts in descending order
 idxSort = list(zip(idxQuartz, idxArts))
 idxSort.sort(key = lambda row: len(row[1]), reverse=True)
 idxQuartz, idxArts = list(zip(*idxSort))
-    
-#with open('Orbments.csv', mode='w', newline='') as csv_file:
-#    fieldnames = ['Quartz Name', 'Quartz Effect', 'Art Name', 'Cast Cost', 'Art Effect']
-#    writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-#    
-#    writer.writeheader()
-#    for i in range(len(cbnTuple)):
-#        n = len(lstDict[i])
-#        for j in range(max(n,l)):
-#            if j < l:
-#                qname = cbnTuple[i][j]['Name']
-#                qeffect = cbnTuple[i][j]['Effect']
-#            else:
-#                qname = ''
-#                qeffect = ''
-#            if j < n:
-#                aname = lstDict[i][j]['Name']
-#                acost = lstDict[i][j]['Cast Cost']
-#                aeffect = lstDict[i][j]['Effect']
-#            else:
-#                aname = ''
-#                acost = ''
-#                aeffect = ''
-#            writer.writerow({'Quartz Name': qname, 'Quartz Effect': qeffect, 'Art Name': aname, 'Cast Cost': acost, 'Art Effect': aeffect})
-#        writer.writerow({'Quartz Name': '', 'Quartz Effect': '', 'Art Name': '', 'Cast Cost': '', 'Art Effect': ''})
 
+#
+# Output data
+#
+
+# Output quarts combinations and resulting arts
 with open('Orbments.csv', mode='w', newline='') as csv_file:
     fieldnames = ['Quartz Name', 'Quartz Effect', 'Art Name', 'Cast Cost', 'Art Effect']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
